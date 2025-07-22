@@ -4,7 +4,7 @@ A modern HTML-based text adventure game featuring instant text display and immer
 
 ## 🎮 Play the Game
 
-**[Play Alva Saga Online](https://your-username.github.io/alva-saga-game/)**
+**[Play Alva Saga Online](Devbidimosu.github.io/index.html)**
 
 ## 📖 About
 
