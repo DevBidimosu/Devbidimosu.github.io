@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ALVA SAGA: Choose Your Own Adventure</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 class="game-title">ALVA SAGA</h1>
+            <p class="game-subtitle">Choose Your Own Adventure</p>
+        </header>
+        
+        <main class="game-area">
+            <div id="chapter-display">
+                <h2 id="chapter-title"></h2>
+                <div id="chapter-text"></div>
+            </div>
+            
+            <div id="choices-area">
+                <p id="choice-prompt"></p>
+                <div id="choice-buttons"></div>
+            </div>
+            
+            <div id="game-over" class="hidden">
+                <h2>Thank you for playing the ALVA SAGA!</h2>
+                <button id="restart-btn" class="choice-btn">Start Over</button>
+            </div>
+        </main>
+        
+        <footer>
+            <p>A narrative experiment by Bidi</p>
+            <p>Feedback, anomalies, or emotional trauma welcome.</p>
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
