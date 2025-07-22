@@ -1,0 +1,46 @@
+body {
+    background-color: #000; /* Black background */
+    color: #0F0; /* Green text */
+    font-family: 'Courier New', Courier, monospace; /* Monospaced font for Matrix feel */
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Align content to the top */
+    min-height: 100vh; /* Ensure it takes full viewport height */
+    overflow-y: auto; /* Allow scrolling if content is long */
+}
+
+#game-container {
+    max-width: 800px; /* Limit width for readability */
+    width: 100%;
+    border: 1px solid #0F0; /* Green border for extra effect */
+    padding: 20px;
+    box-shadow: 0 0 15px #0F0; /* Green glow effect */
+}
+
+#game-text {
+    white-space: pre-wrap; /* Preserve whitespace and wrap text */
+    word-wrap: break-word; /* Break long words */
+    margin-bottom: 20px;
+    line-height: 1.5; /* Improve readability */
+}
+
+.choice-button {
+    background-color: #000;
+    color: #0F0;
+    border: 1px solid #0F0;
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    transition: background-color 0.2s, color 0.2s;
+    width: fit-content; /* Adjust button width to content */
+    display: block; /* Stack buttons vertically */
+}
+
+.choice-button:hover {
+    background-color: #0F0;
+    color: #000;
+}
