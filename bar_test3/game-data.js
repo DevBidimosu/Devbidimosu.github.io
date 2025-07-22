@@ -2,7 +2,7 @@ const gameData = {
     "intro": {
         title: "Prologue: Prime Pixel",
         content: `
-            <blockquote>"  They come not to conquer, but to remember who they once were."</blockquote>
+            <blockquote>"  !!They come not to conquer, but to remember who they once were."</blockquote>
             
             <p>A glowing letter floats in the air, its words gleaming faintly, pulsing as if alive.</p>
             
