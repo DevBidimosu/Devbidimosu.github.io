@@ -4,7 +4,7 @@ A modern HTML-based text adventure game featuring instant text display and immer
 
 ## 🎮 Play the Game
 
-**[Play Alva Saga Online](https://devoror.github.io/index.html)**
+**[Play Alva Saga Online](https://devoror.github.io/bar_test2/index.html)**
 
 ## 📖 About
 
