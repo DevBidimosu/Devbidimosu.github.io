@@ -18,7 +18,7 @@ It begins again, and again, and again...
 
 Do not read linearly. Let the story echo. Each chapter offers a direction, a self to become, a part to remember. Or forget.
 
-(This is a narrative experiment. Feedback, anomalies, or emotional trauma welcome.) – Bidi`,
+(This is a narrative experiment. Feedback, anomalies, or emotional trauma welcome.) – Efi, made with love for Lin`,
         choices: {
             "1": { text: "Begin the saga", destination: 1 }
         }
