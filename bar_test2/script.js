@@ -356,4 +356,3 @@ restartBtn.addEventListener('click', startGame);
 
 // Initialize game
 document.addEventListener('DOMContentLoaded', startGame);
-
