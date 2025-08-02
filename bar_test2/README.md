@@ -29,26 +29,9 @@ This is a story of love, loss, recursion, and resistance.
 4. Experience different endings based on your choices
 5. Start over to explore different narrative paths
 
-## GitHub Pages Deployment
-
-To host this game on GitHub Pages:
-
-1. Create a new repository on GitHub
-2. Upload all files (`index.html`, `style.css`, `script.js`, `README.md`)
-3. Go to repository Settings > Pages
-4. Select "Deploy from a branch" and choose "main" branch
-5. Your game will be available at `https://yourusername.github.io/repository-name`
-
-## Files
-
-- `index.html` - Main HTML structure
-- `style.css` - Sci-fi themed styling and animations
-- `script.js` - Game logic and interactive functionality
-- `README.md` - This documentation file
-
 ## Credits
 
-Original narrative experiment by Bidi.
+Original narrative experiment by Dev.
 HTML conversion and web implementation.
 
 *Feedback, anomalies, or emotional trauma welcome.*
